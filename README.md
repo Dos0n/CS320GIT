@@ -1,2 +1,2 @@
 # CS320GIT
-git initial setup
+Repository for git setup, Bruce Do
